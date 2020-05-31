@@ -1,3 +1,5 @@
 *.docx
 .ipynb_checkpoints/
 *.log
+*.pdf
+*.png
